@@ -1,9 +1,11 @@
 hosted.aurynj.net
 =================
 
-custom flavored static files, hosted by GitHub.
+A collection of freely redistributable contents, hosted by GitHub.
 
 Contents and License
 --------------------
 
-Each work of hosted contents is separately licensed by their copyright owner(s).
+*Copyright Disclaimer*: Each content is separately licensed by their copyright owner(s). This website distributes contents legally in terms of the license for each, but that doesn't mean you can use them in any purpose. The end-user must also be in compliance with the license.
+
+* **Hamchorom font family(함초롬체)**. Work of Hancom Inc. Licensed to any personal/proprietary use and redistribution, except for proprietary remake.
