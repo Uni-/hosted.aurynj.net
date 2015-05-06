@@ -1,11 +1,15 @@
 @font-face {
 	font-family: HCR Dotum LVT;
 	font-weight: normal;
-	src: url('blob/HANDotum-LVT.ttf');
+	src: local('HCR Dotum LVT'),
+	     url('blob/HANDotum-LVT.ttf'),
+	     local('HCR Dotum');
 }
 
 @font-face {
 	font-family: HCR Dotum LVT;
 	font-weight: bold;
-	src: url('blob/HANDotumB-LVT.ttf');
+	src: local('HCR Dotum LVT'),
+	     url('blob/HANDotumB-LVT.ttf'),
+	     local('HCR Dotum');
 }
