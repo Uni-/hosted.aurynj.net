@@ -9,7 +9,7 @@
 @font-face {
 	font-family: HCR Batang LVT;
 	font-weight: bold;
-	src: local('HCR Batang LVT'),
+	src: local('HCR Batang LVT Bold'),
 	     url('blob/HANBatangB-LVT.ttf'),
-	     local('HCR Batang');
+	     local('HCR Batang Bold');
 }
