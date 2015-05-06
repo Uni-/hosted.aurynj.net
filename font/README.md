@@ -16,7 +16,7 @@ How to use
 File formats
 ------------
 
-Font files are converted to ttf/woff/woff2/eot/svg to maximize the web browser compatibility. Used (Fontforge Python scripting)[http://fontforge.github.io/en-US/documentation/scripting/python/] and (Font Squirrel Webfont Generator)[http://www.fontsquirrel.com/tools/webfont-generator] for conversion. Some formats, pfm+afm or otf, are not included even if the font is originally distributed in those formats.
+Font files are converted to ttf/woff/woff2/eot/svg to maximize the web browser compatibility. Used [Fontforge Python scripting](http://fontforge.github.io/en-US/documentation/scripting/python/) and [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator) for conversion. Some formats, pfm+afm or otf, are not included even if the font is originally distributed in those formats.
 
 The Font Squirrel Webfont Generator configuration:
 * no hinting change
