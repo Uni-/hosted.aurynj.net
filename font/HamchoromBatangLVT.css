@@ -1,0 +1,11 @@
+@font-face {
+	font-family: HCR Batang LVT;
+	font-weight: normal;
+	src: url('blob/HANBatang-LVT.ttf');
+}
+
+@font-face {
+	font-family: HCR Batang LVT;
+	font-weight: bold;
+	src: url('blob/HANBatangB-LVT.ttf');
+}
