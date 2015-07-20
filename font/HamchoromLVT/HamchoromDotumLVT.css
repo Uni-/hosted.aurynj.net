@@ -2,7 +2,7 @@
 	font-family: HCR Dotum LVT;
 	font-weight: normal;
 	src: local('HCR Dotum LVT'),
-	     url('blob/HANDotum-LVT.ttf'),
+	     url('HANDotum-LVT.ttf'),
 	     local('HCR Dotum');
 }
 
@@ -10,6 +10,6 @@
 	font-family: HCR Dotum LVT;
 	font-weight: bold;
 	src: local('HCR Dotum LVT Bold'),
-	     url('blob/HANDotumB-LVT.ttf'),
+	     url('HANDotumB-LVT.ttf'),
 	     local('HCR Dotum');
 }

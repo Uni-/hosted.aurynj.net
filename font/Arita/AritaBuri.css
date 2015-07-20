@@ -1,0 +1,34 @@
+@font-face {
+	font-family: Arita Buri;
+	font-weight: 100;
+	src: local('Arita-buri'),
+	     url('AritaBuri-Hairline.ttf');
+}
+
+@font-face {
+	font-family: Arita Buri;
+	font-weight: 300;
+	src: local('Arita-buri'),
+	     url('AritaBuri-Light.ttf');
+}
+
+@font-face {
+	font-family: Arita Buri;
+	font-weight: 500;
+	src: local('Arita-buri'),
+	     url('AritaBuri-Medium.ttf');
+}
+
+@font-face {
+	font-family: Arita Buri;
+	font-weight: 700;
+	src: local('Arita-buri'),
+	     url('AritaBuri-Semibold.ttf');
+}
+
+@font-face {
+	font-family: Arita Buri;
+	font-weight: 900;
+	src: local('Arita-buri'),
+	     url('AritaBuri-Bold.ttf');
+}

@@ -2,12 +2,12 @@
 	font-family: HCR Batang;
 	font-weight: normal;
 	src: local('HCR Batang'),
-	     url('blob/HANBatang.ttf');
+	     url('HANBatang.ttf');
 }
 
 @font-face {
 	font-family: HCR Batang;
 	font-weight: bold;
 	src: local('HCR Batang Bold'),
-	     url('blob/HANBatangB.ttf');
+	     url('HANBatangB.ttf');
 }

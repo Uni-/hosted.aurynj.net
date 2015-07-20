@@ -1,0 +1,34 @@
+@font-face {
+	font-family: Arita Dotum;
+	font-weight: 100;
+	src: local('Arita-dotum'),
+	     url('AritaDotum-Thin.ttf');
+}
+
+@font-face {
+	font-family: Arita Dotum;
+	font-weight: 300;
+	src: local('Arita-dotum'),
+	     url('AritaDotum-Light.ttf');
+}
+
+@font-face {
+	font-family: Arita Dotum;
+	font-weight: 500;
+	src: local('Arita-dotum'),
+	     url('AritaDotum-Medium.ttf');
+}
+
+@font-face {
+	font-family: Arita Dotum;
+	font-weight: 700;
+	src: local('Arita-dotum'),
+	     url('AritaDotum-Semibold.ttf');
+}
+
+@font-face {
+	font-family: Arita Dotum;
+	font-weight: 900;
+	src: local('Arita-dotum'),
+	     url('AritaDotum-Bold.ttf');
+}
